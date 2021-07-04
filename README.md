@@ -1,5 +1,5 @@
 # 🤖XP-TNBOT🤖
-BOT WHATSAPP TERMUX ONLY BY XP-TN
+BOT WHATSAPP TERMUX ONLY BY ZX-QNBOT
 <img src = "https://avatars3.githubusercontent.com/u/49530313?s=460&u=086c7b0d17c5b8e906200d810e88587f5c98e349&v=4" width="320">
 
 ### Alat dan Bahan
@@ -29,8 +29,8 @@ Script ini di modifikasi sama saya sendiri XP-TN.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
-> cd XP-TNNBOT
+> git clone https://github.com/Z-zxQ/ZX-QNBOT
+> cd ZX-QNBOT
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -54,7 +54,7 @@ Github ini dan support😅
 ```
 ## Features
 
-| XP-TNBOT      |                   Feature        |
+| ZX-QNBOT      |                   Feature        |
  :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -96,6 +96,6 @@ BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (XP-TN
 
 ## Sosial Media Admin
 * [`Youtube Admin`](https://www.youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw)
-* [`Instagram Admin`](https://instagram.com/mragung23)
+* [`Instagram Admin`](https://instagram.com/_zxagung)
 * [`WhatsApp Admin `](https://wa.me/+6289655478810)
 
