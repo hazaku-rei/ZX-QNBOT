@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XP-TN/XP-TNNBOT.git"
+    "url": "git+https://github.com/Z-zxQ/ZX-QNBOT.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "z-zxq",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/XP-TN/XP-TNNBOTT/issues"
+    "url": "https://github.com/Z-zxQ/ZX-QNBOT/issues"
   },
   "homepage": "https://github.com/XP-TN/XP-TNNBOT#readme"
 }
